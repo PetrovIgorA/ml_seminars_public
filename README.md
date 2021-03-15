@@ -1,4 +1,4 @@
-# ml_seminars_public
+# ml_seminars_public H/w
 
 This repository contains code for seminars accompanying the course "Machine learning" held in MSU in 2021.
 
